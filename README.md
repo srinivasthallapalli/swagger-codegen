@@ -800,12 +800,12 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [uShip](https://www.uship.com/)
 - [VMware](https://vmware.com/)
 - [W.UP](http://wup.hu/?siteLang=en)
+- [WaveMaker API Gateway](http://www.wavemaker.com/api-success/)
 - [Wealthfront](https://www.wealthfront.com/)
 - [Webever GmbH](https://www.webever.de/)
 - [WEXO A/S](https://www.wexo.dk/)
 - [Zalando](https://tech.zalando.com)
 - [ZEEF.com](https://zeef.com/)
-
 
 # Swagger Codegen Core Team
 
